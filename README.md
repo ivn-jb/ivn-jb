@@ -10,7 +10,4 @@ I'm a Computer Science (Software Technology) undergraduate at **De La Salle Univ
 
 🧠 **Current Research:** Exploring multimodal gesture-augmented error recovery for smart speakers at the **DLSU Human-X Interactions Lab (HXIL)**
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/jorem-ivan-boado-3b43a8207/) • [Instagram](https://www.instagram.com/ivn.jb/) • [joremivangboado@gmail.com](mailto:joremivangboado@gmail.com)
-
-
 ---
