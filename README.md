@@ -7,7 +7,9 @@ I'm a Computer Science (Software Technology) undergraduate at **De La Salle Univ
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:joremivangboado@gmail.com)
 
 🔬 **Published Researcher:** Lead author on a data-driven forest canopy & structural modeling study published in **MDPI Proceedings (ASEC 2025)** — [Read the paper](https://sciforum.net/paper/27699)
+
 🧠 **Current Research:** Exploring multimodal gesture-augmented error recovery for smart speakers at the **DLSU Human-X Interactions Lab (HXIL)**
+
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/jorem-ivan-boado-3b43a8207/) • [Instagram](https://www.instagram.com/ivn.jb/) • [joremivangboado@gmail.com](mailto:joremivangboado@gmail.com)
 
 
